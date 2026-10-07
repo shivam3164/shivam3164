@@ -8,7 +8,3 @@ I’m currently focused on **[ReelFyre](https://reelfyre.com)**, an AI video pro
 - [ReelFyre](https://reelfyre.com) — AI-assisted video repurposing
 - [LinkedIn](https://www.linkedin.com/in/shivam-verma-67a3b9137/) — professional profile
 
-## Public work
-
-- [Kundali 2](https://github.com/shivam3164/kundali2) — Vedic astrology application with Python backend, web frontend, and iOS app
-- [Intro to Data Science in Python](https://github.com/shivam3164/Intro-to-Data-Science-in-Python) — notebooks from the University of Michigan Coursera specialization
